@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\SDGP\Login_Signup\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="G:\SDGP\Login_Signup\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_af751254e6144f2ec2262762fcffb9d88e89f035\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SDGP\Login_Signup\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="G:\SDGP\Login_Signup\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_5de32a73450a516c88ec7f5388b181468c13a457\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SDGP\Login_Signup\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="G:\SDGP\Login_Signup\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_3af88af115c7305e44f16061f77541c7fa02a2e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SDGP\Login_Signup\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70faa02a0dd17ab85ee137870cb09981c88a1dea">
+        <dex dex="G:\SDGP\Login_Signup\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3272649c0d21d34eeed4fc9e35174ebaacc2d48b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SDGP\Login_Signup\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="G:\SDGP\Login_Signup\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_c72a3fa50e5a01915650bfb18933a2c5c569d0e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="G:\SDGP\Login_Signup\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_6964f95dbe20f34f9a4c15b3ea414ed00e34daae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SDGP\Login_Signup\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="G:\SDGP\Login_Signup\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_5832322caaef22177c3b6e33dfe72785223ed84f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SDGP\Login_Signup\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="G:\SDGP\Login_Signup\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_8388d8f1a46f9716454872710c76eb6fad47a602\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SDGP\Login_Signup\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\SDGP\Login_Signup\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_652409e419b8852909737148ad19287ebcaf1736\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SDGP\Login_Signup\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="G:\SDGP\Login_Signup\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_c41815931737114b1d0e8bb991804d451b69e32a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SDGP\Login_Signup\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1e2fa85e3bba7c705190be32658acfe5953d475">
+        <dex dex="G:\SDGP\Login_Signup\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_79541718527f7923a9e8ae2de17ae18af06a63f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SDGP\Login_Signup\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="G:\SDGP\Login_Signup\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_bc2a976ec19dc6a2a2fcfc907980f959d69da721\classes.dex" />
+    </item>
+
+</items>
